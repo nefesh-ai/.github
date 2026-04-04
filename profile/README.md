@@ -9,6 +9,7 @@ Nefesh is a B2B middleware API that translates live biometric signals into adapt
 | Repository | Description |
 |---|---|
 | [nefesh-mcp-server](https://github.com/nefesh-ai/nefesh-mcp-server) | MCP + A2A server for AI agents (6 MCP tools, 4 A2A skills) |
+| [nefesh-gateway](https://github.com/nefesh-ai/nefesh-gateway) | Cognitive Compute Router: OpenAI-compatible LLM proxy with biometric adaptation |
 | [nefesh-cli](https://github.com/nefesh-ai/nefesh-cli) | Official CLI: `npm install -g @nefesh/cli` |
 | [nefesh-sdk](https://github.com/nefesh-ai/nefesh-sdk) | Official TypeScript SDK |
 | [human-state-protocol](https://github.com/nefesh-ai/human-state-protocol) | Open specification for human state exchange between AI systems |
