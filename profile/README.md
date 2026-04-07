@@ -2,7 +2,9 @@
 
 **The first nervous system for AI.**
 
-Nefesh is a B2B middleware API that translates live biometric signals into adaptive AI behavior. Any sensor, any device, any LLM.
+Nefesh is a B2B middleware API that translates live biometric signals into adaptive AI behavior in real time. Any sensor, any device, any LLM. One HTTP POST, no SDK required.
+
+Listed on the official MCP registries: [Smithery](https://smithery.ai), [Glama](https://glama.ai), [PulseMCP](https://pulsemcp.com).
 
 ### What we build
 
