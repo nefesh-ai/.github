@@ -4,7 +4,7 @@
 
 Nefesh is a B2B middleware API that translates live biometric signals into adaptive AI behavior in real time. Any sensor, any device, any LLM. One HTTP POST, no SDK required.
 
-Listed on the official MCP registries: [Smithery](https://smithery.ai), [Glama](https://glama.ai), [PulseMCP](https://pulsemcp.com).
+Listed on the official MCP registries: [Smithery](https://smithery.ai/servers/nefesh-ai/human-state), [Glama](https://glama.ai/mcp/connectors/ai.nefesh/human-state), [PulseMCP](https://www.pulsemcp.com/servers/nefesh-human-state).
 
 ### What we build
 
